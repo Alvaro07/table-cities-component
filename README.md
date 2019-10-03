@@ -1,8 +1,8 @@
-## Available Scripts
+# Table cities component
 
-In the project directory, you can run after install the node modules:
+Component with a list where you can filter and select different cities.
+Developed with React
 
-### `npm start`
+---
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+https://alvaro07.github.io/table-cities-component/
