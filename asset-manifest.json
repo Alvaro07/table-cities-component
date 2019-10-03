@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.3ca8f7ee.chunk.js",
-    "main.js.map": "/static/js/main.3ca8f7ee.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.007ba300.js",
-    "runtime-main.js.map": "/static/js/runtime-main.007ba300.js.map",
-    "static/js/2.cf3c52d6.chunk.js": "/static/js/2.cf3c52d6.chunk.js",
-    "static/js/2.cf3c52d6.chunk.js.map": "/static/js/2.cf3c52d6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8944e0629f34411ccf808ef42283eec3.js": "/precache-manifest.8944e0629f34411ccf808ef42283eec3.js",
-    "service-worker.js": "/service-worker.js"
+    "main.js": "/table-cities-components/static/js/main.00f78a4c.chunk.js",
+    "main.js.map": "/table-cities-components/static/js/main.00f78a4c.chunk.js.map",
+    "runtime-main.js": "/table-cities-components/static/js/runtime-main.63165df4.js",
+    "runtime-main.js.map": "/table-cities-components/static/js/runtime-main.63165df4.js.map",
+    "static/js/2.8d42e46c.chunk.js": "/table-cities-components/static/js/2.8d42e46c.chunk.js",
+    "static/js/2.8d42e46c.chunk.js.map": "/table-cities-components/static/js/2.8d42e46c.chunk.js.map",
+    "index.html": "/table-cities-components/index.html",
+    "precache-manifest.fb74f058123bab997f129c623286d1d3.js": "/table-cities-components/precache-manifest.fb74f058123bab997f129c623286d1d3.js",
+    "service-worker.js": "/table-cities-components/service-worker.js"
   }
 }
