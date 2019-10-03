@@ -1,7 +1,8 @@
 {
-  "name": "orbital-ads-test",
+  "name": "cities-table-component",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://alvaro07.github.io/table-cities-component/",
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.10.0",
@@ -14,7 +15,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -32,5 +34,8 @@
     "singleQuote": true,
     "semi": false,
     "printWidth": 110
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
